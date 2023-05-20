@@ -7,9 +7,16 @@
       max-width: 720px;
     }
   }
+
+  @media screen and (max-width: 768px){
+    .intro__content{
+      margin: 0 24px;
+    }
+  }
   
   @media screen and (max-width: 440px){
     .intro__content{
       max-width: 288px;
+      margin: 0 16px;
     }
   }
