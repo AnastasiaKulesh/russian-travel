@@ -1,0 +1,15 @@
+.intro__content{
+    max-width: 690px;
+  } 
+  
+  @media screen and (max-width: 820px){
+    .intro__content{
+      max-width: 720px;
+    }
+  }
+  
+  @media screen and (max-width: 440px){
+    .intro__content{
+      max-width: 288px;
+    }
+  }
