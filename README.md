@@ -17,4 +17,7 @@
 Реализованы резиновая, отзывчивая и адаптивная верстки.
 
 
+Ссылка на GitHub Pages:
+https://anastasiakulesh.github.io/russian-travel/
+
 > Нет предела совершенству.
