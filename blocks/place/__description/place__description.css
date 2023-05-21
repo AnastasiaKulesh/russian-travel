@@ -1,4 +1,5 @@
 .place__description {
+  margin: 0;
   display: flex;
   flex-direction: column;
   gap: 26px;
@@ -10,7 +11,7 @@
   }
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 680px) {
   .place__description {
     margin: 32px 0 0 16px;
   }
