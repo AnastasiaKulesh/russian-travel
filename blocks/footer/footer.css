@@ -10,22 +10,23 @@
 
 @media screen and (max-width: 1024px) {
   .footer {
-    max-width: calc(100% - 48px*2);
+    max-width: calc(100% - 2*48px);
   }
 }
 
 @media screen and (max-width: 768px) {
   .footer {
-    max-width: 100%;
+    max-width: calc(100% - 2*24px);
     margin-top: 88px;
   }
 }
 
-@media screen and (max-width: 770px) {
+@media screen and (max-width: 740px) {
   .footer {
     max-width: calc(100% - 2*16px);
     margin-top: 64px;
     flex-direction: column;
+    align-items: flex-start;
     margin-left: 16px;
     gap: 48px;
 

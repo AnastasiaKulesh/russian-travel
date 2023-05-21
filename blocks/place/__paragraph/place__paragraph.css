@@ -7,14 +7,14 @@
 }
 
 @media screen and (max-width: 768px) {
-  .place__pharagraph {
+  .place__paragraph {
     max-width: 352px;
     font-size: 16px;
   }
 }
 
 @media screen and (max-width: 320px) {
-  .place__pharagraph {
+  .place__paragraph {
     max-width: 288px;
   }
 }
