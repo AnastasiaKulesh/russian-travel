@@ -13,6 +13,12 @@
 
 @media screen and (max-width: 680px) {
   .place__description {
-    margin: 32px 0 0 16px;
+    margin-top: 32px;
+  }
+}
+
+@media screen and (max-width: 440px) {
+  .place__description {
+    margin: 32px 16px 0 16px;
   }
 }

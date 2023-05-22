@@ -1,6 +1,6 @@
 .cover__link {
   width: 100%;
-  background-color: #2A2C2F30;
+  background-color: #2A2C2F4D;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -12,7 +12,7 @@
 
 .cover__link:hover:before {
   content: "";
-  background-color: #2A2C2F80;
+  background-color: #2A2C2FCC;
   top: 0;
   left: 0;
   right: 0;
